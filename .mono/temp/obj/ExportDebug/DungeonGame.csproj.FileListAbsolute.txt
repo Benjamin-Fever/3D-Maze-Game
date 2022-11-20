@@ -1,0 +1,9 @@
+F:\Game Projects\Godot\DungeonGame\.mono\temp\bin\ExportDebug\DungeonGame.dll
+F:\Game Projects\Godot\DungeonGame\.mono\temp\bin\ExportDebug\DungeonGame.pdb
+F:\Game Projects\Godot\DungeonGame\.mono\temp\obj\ExportDebug\DungeonGame.csproj.AssemblyReference.cache
+F:\Game Projects\Godot\DungeonGame\.mono\temp\obj\ExportDebug\DungeonGame.GeneratedMSBuildEditorConfig.editorconfig
+F:\Game Projects\Godot\DungeonGame\.mono\temp\obj\ExportDebug\DungeonGame.AssemblyInfoInputs.cache
+F:\Game Projects\Godot\DungeonGame\.mono\temp\obj\ExportDebug\DungeonGame.AssemblyInfo.cs
+F:\Game Projects\Godot\DungeonGame\.mono\temp\obj\ExportDebug\DungeonGame.csproj.CoreCompileInputs.cache
+F:\Game Projects\Godot\DungeonGame\.mono\temp\obj\ExportDebug\DungeonGame.dll
+F:\Game Projects\Godot\DungeonGame\.mono\temp\obj\ExportDebug\DungeonGame.pdb

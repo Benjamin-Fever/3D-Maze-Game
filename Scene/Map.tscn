@@ -1,0 +1,11 @@
+[gd_scene load_steps=3 format=2]
+
+[ext_resource path="res://Assets/Textures/Black.png" type="Texture" id=1]
+[ext_resource path="res://Scripts/Other/GenerateMap.cs" type="Script" id=2]
+
+[node name="Map" type="Node2D"]
+position = Vector2( 800, 580 )
+rotation = 3.14159
+scale = Vector2( 20, 20 )
+script = ExtResource( 2 )
+t = ExtResource( 1 )
