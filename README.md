@@ -1,5 +1,5 @@
 <body>
-<h1>3D-Maze-Game</h1>
+<h1>3D Maze Game</h1>
 <p>
 <h2>Description</h2>
 This is a small multiplayer game I made inbetween full time work as I tried to learn Godot. In it a randomly generated maze in made. One player has a 2D version of this maze and the other is a 3D version. The 2D version needs to guide the player through the maze to the end point. The 3D player needs to commuinicate with the other player to figure out where on the map they are and how to get out. I made this game using the Godot game engine using C# language. I choose to use C# instead of GDscript as I was already comfortable with the C# language.
